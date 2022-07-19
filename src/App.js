@@ -9,7 +9,8 @@ function App() {
 
       <nav>
         <Link to="/login" className="App-link">Login</Link> |{" "}
-        <Link to="/register" className="App-link">Register</Link>
+        <Link to="/register" className="App-link">Register</Link> |{" "}
+        <Link to="/obat" className="App-link">List Obat</Link>
       </nav>
     </div>
   );

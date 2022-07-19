@@ -5,6 +5,7 @@
     Detail Library
     - npm install react-router-dom@6
     - npm install axios
+    - npm install react-bootstrap bootstrap
 
 # Getting Started with Create React App
 

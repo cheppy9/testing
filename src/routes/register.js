@@ -1,7 +1,7 @@
 import axios from "axios"
 import React from "react"
 import { Navigate } from "react-router-dom"
-import { API_REGISTER } from "../API.js"
+import { API_REGISTER } from "../API"
 import '../App.css'
 
 class Register extends React.Component {

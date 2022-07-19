@@ -1,6 +1,6 @@
 import axios from "axios"
 import React from "react"
-import { API_LOGIN } from "../API.js"
+import { API_LOGIN } from "../API"
 import "../App.css"
 
 class Login extends React.Component {
