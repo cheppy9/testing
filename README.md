@@ -1,6 +1,7 @@
 # Library
 - Default Installation : `npx create-react-app project-name`
 - npm install react-router-dom@6
+- npm install axios
 
 # Getting Started with Create React App
 
