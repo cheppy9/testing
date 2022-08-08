@@ -1,4 +1,4 @@
-# Basic Cheppy
+# Basic
 - Default Installation : `npx create-react-app project-name`
 - npm install
 -----
